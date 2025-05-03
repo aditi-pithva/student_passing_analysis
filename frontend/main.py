@@ -23,7 +23,7 @@ class Prediction:
 
 @strawberry.type
 class Query:
-    hello: str = "Welcome to the Prediction App!"
+    hello: str = "Welcome to the Student Passing Prediction App!"
 
 @strawberry.type
 class Mutation:
