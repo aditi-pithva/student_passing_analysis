@@ -5,6 +5,12 @@ This project combines predictive modeling and interactive dashboards to help vis
 
 ---
 
+![image](https://github.com/user-attachments/assets/8f846bd2-1d4a-4158-9714-23daa58044ef)
+
+![image](https://github.com/user-attachments/assets/6a13fdb4-8cbb-45a5-b4f6-ce581533a5a7)
+
+
+
 ## Table of Contents
 
 - [Overview](#overview)
